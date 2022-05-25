@@ -1,0 +1,677 @@
+#hello{
+    font-family: 'Macondo', cursive;
+    -webkit-text-stroke: 1px rgb(61, 30, 30);
+    font-size: 50px;
+    position: relative;
+}
+#hello1{
+    font-family: 'Macondo', cursive;
+    -webkit-text-stroke: 1px rgb(61, 30, 30);
+    font-size: 50px;bottom: 75px;
+    position: relative;left: 10%;
+}
+#background{
+    background-color: rgb(20, 19, 19);
+}
+#ro{
+    color:rgb(38, 255, 0);
+}
+#roc{
+    color:rgb(255, 225, 0);
+}
+#rock{
+    color:rgb(42, 241, 255);
+}
+#rocky{
+    color:rgb(255, 0, 0);
+}
+#adoptbutton1{
+background-color: rgb(0, 0, 0);
+color:white;
+font-family: 'Times New Roman', Times, serif;
+text-align: center;
+border-radius: 20%;
+border-color: rgb(222, 46, 46);
+padding: 5%;
+padding-left: 3%;
+padding-right: 3%;
+}
+#adoptbutton2{
+    background-color: rgb(0, 0, 0);
+    color:white;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    border-radius: 20%;
+    border-color: rgb(222, 46, 46);
+    padding: 5%;
+    padding-left: 3%;
+    padding-right: 3%;
+}
+#adoptbutton3{
+    background-color: rgb(0, 0, 0);
+    color:white;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    border-radius: 20%;
+    border-color: rgb(222, 46, 46);
+    padding: 5%;
+    padding-left: 3%;
+    padding-right: 3%;
+}
+#adoptbutton4{
+    background-color: rgb(0, 0, 0);
+    color:white;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    border-radius: 20%;
+    border-color: rgb(222, 46, 46);
+    padding: 5%;
+    padding-left: 3%;
+    padding-right: 3%;
+}
+#adoptbutton5{
+    background-color: rgb(0, 0, 0);
+    color:white;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    border-radius: 20%;
+    border-color: rgb(222, 46, 46);
+    padding: 5%;
+    padding-left: 3%;
+    padding-right: 3%;
+}
+#adoptbutton6{
+    background-color: rgb(0, 0, 0);
+    color:white;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    border-radius: 20%;
+    border-color: rgb(222, 46, 46);
+    padding: 5%;
+    padding-left: 3%;
+    padding-right: 3%;
+}
+#adoptbutton7{
+    background-color: rgb(0, 0, 0);
+    color:white;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    border-radius: 20%;
+    border-color: rgb(222, 46, 46);
+    padding: 5%;
+    padding-left: 3%;
+    padding-right: 3%;
+}
+#adoptbutton8{
+    background-color: rgb(0, 0, 0);
+    color:white;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    border-radius: 20%;
+    border-color: rgb(222, 46, 46);
+    padding: 5%;
+    padding-left: 3%;
+    padding-right: 3%;
+}  
+#adoptbtn1,#adoptbtn2,#adoptbtn3,#adoptbtn4,#adoptbtn5,#adoptbtn6,#adoptbtn7,#adoptbtn8{
+    background-color: rgb(0, 0, 0);
+    color:white;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    border-radius: 20%;
+    border-color: rgb(207, 227, 51);
+    padding: 5%;
+    padding-left: 3%;
+    padding-right: 3%;
+}
+#close1,#close2,#close3,#close4,#close5,#close6,#close7,#close8{
+    background-color: rgb(255, 255, 255);
+    color:rgb(0, 0, 0);
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    border-radius: 20%;
+    border-color: rgb(207, 227, 51);
+    position: relative;left: 48%; bottom: 345px;
+    padding: 2.5%;
+    font-size: 20px;
+
+}
+#adoptbutton1:hover{
+    background-color: rgb(239, 99, 99);
+}
+#adoptbutton2:hover{
+    background-color: rgb(239, 99, 99);
+}
+#adoptbutton3:hover{
+    background-color: rgb(239, 99, 99);
+}
+#adoptbutton4:hover{
+    background-color: rgb(239, 99, 99);
+}
+#adoptbutton5:hover{
+    background-color: rgb(239, 99, 99);
+}
+#adoptbutton6:hover{
+    background-color: rgb(239, 99, 99);
+}
+#adoptbutton7:hover{
+    background-color: rgb(239, 99, 99);
+}
+#adoptbutton8:hover{
+    background-color: rgb(239, 99, 99);
+}
+
+#adoptbtn1:hover{
+    background-color:rgb(154, 225, 99);
+}
+#adoptbtn2:hover{
+    background-color: rgb(154, 225, 99);
+}
+#adoptbtn3:hover{
+    background-color: rgb(154, 225, 99);
+}
+#adoptbtn4:hover{
+    background-color: rgb(154, 225, 99);
+}
+#adoptbtn5:hover{
+    background-color: rgb(154, 225, 99);
+}
+#adoptbtn6:hover{
+    background-color: rgb(154, 225, 99);
+}
+#adoptbtn7:hover{
+    background-color: rgb(154, 225, 99);
+}
+#adoptbtn8:hover{
+    background-color: rgb(154, 225, 99);
+}
+#abby{
+    width: 275px;
+    height: 225px;
+    border: 1px solid;
+}
+.classabby{
+    width: 275px;
+    height: 500px;
+    background-color: rgb(130, 166, 198);
+    border: 5px solid;
+    border-color: aliceblue;
+    padding: 1.5em;
+    padding-left: 1.5%;
+    padding-right: 1.5%;
+    float: left;
+    margin: 20px;
+    text-align: center;
+    /* position:relative;left: 2.75%; */
+}
+#brock{
+    width: 250px;
+    height: 225px;
+    border: 1px solid;
+}
+.classbrock{
+    width: 275px;
+    height: 500px;
+    background-color: rgb(130, 166, 198);
+    border: 5px solid;
+    border-color: aliceblue;
+    padding: 1.5em;
+    padding-left: 1.5%;
+    padding-right: 1.5%;
+    float: left;
+    margin: 20px;
+    text-align: center;
+}
+#janet{
+    width: 275px;
+    height: 225px;
+    border: 1px solid;
+}
+.classjanet{
+    width: 275px;
+    height: 500px;
+    border: 5px solid;
+    background-color:rgb(130, 166, 198);
+    border-color: aliceblue;
+    padding: 1.5em;
+    padding-left: 1.5%;
+    padding-right: 1.5%;
+    float: left;
+    margin: 20px;
+    text-align: center;
+    /* position:relative;left: 6%;  */
+}
+#pablo{
+    width: 275px;
+    height: 225px;
+    border: 1px solid;
+}
+.classpablo{
+    width: 275px;
+    height: 500px;
+    background-color:rgb(130, 166, 198);
+    border: 5px solid;
+    border: 5px solid;
+    border-color: aliceblue;
+    padding: 1.5em;
+    padding-left: 1.5%;
+    padding-right: 1.5%;
+    float: left;
+    margin: 20px;
+    text-align: center;
+    /* position:relative;left: 4%; */
+}
+#claire{
+    width: 275px;
+    height: 225px;
+    border: 1px solid;
+}
+.classclaire{
+    width: 275px;
+    height: 500px;
+    background-color: rgb(227, 213, 87);
+    border: 5px solid;
+    border-color: aliceblue;
+    padding: 1.5em;
+    padding-left: 1.5%;
+    padding-right: 1.5%;
+    float: left;
+    margin: 20px;
+    text-align: center;
+}
+#rajee{
+    width: 275px;
+    height: 225px;
+    border: 1px solid;
+}
+.classrajee{
+    width: 275px;
+    height: 500px;
+    background-color: rgb(227, 213, 87);
+    border: 5px solid;
+    border-color: aliceblue;
+    padding: 1.5em;
+    padding-left: 1.5%;
+    padding-right: 1.5%;
+    float: left;
+    margin: 20px;
+    text-align: center;
+}
+#muffy{
+    width: 275px;
+    height: 225px;
+    border: 1px solid;
+}
+.classmuffy{
+    width: 275px;
+    height: 500px;
+    background-color: rgb(227, 213, 87);
+    border: 5px solid;
+    border-color: aliceblue;
+    padding: 1.5em;
+    padding-left: 1.5%;
+    padding-right: 1.5%;
+    float: left;
+    margin: 20px;
+    text-align: center;
+}
+#radbert{
+    width: 275px;
+    height: 225px;
+    border: 1px solid;
+}
+.classradbert{
+    width: 275px;
+    height: 500px;
+    background-color: rgb(227, 213, 87);
+    border: 5px solid;
+    border-color: aliceblue;
+    padding: 1.5em;
+    padding-left: 1.5%;
+    padding-right: 1.5%;
+    float: left;
+    margin: 20px;
+    text-align: center;
+}
+li {
+  float: left;
+}
+
+a {
+  display: block;
+  padding: 8px;
+  background-color: lightgray;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  text-decoration: none;
+  color: black;
+  border-radius: 5%;
+}
+.navbar-nav{
+    list-style-type: none;
+    position:relative;left: 17%;bottom: 40px;
+    padding: 0;
+    overflow: hidden;
+    
+}
+.nav-item{
+    margin: 22px;
+    float: left ;
+}
+
+li a:hover {
+    background-color: rgb(144, 140, 140);
+    color:white; 
+}
+#aboutus{
+    text-align: center;
+    color: whitesmoke;
+    font-size: 15px;
+    color: rgb(152, 209, 200);
+}
+#weare{
+    font-size: 25px;
+    color: white;
+}
+#contactus{
+    text-align: center;
+    color: black;
+    font-size: 25px;
+    border-radius: 10px;
+    background-color: azure;
+    width: 375px;
+    padding: 7%;
+    position: relative; left: 29%;
+    font-family: 'Courier New', Courier, monospace;
+}
+#inmemoryof{
+    text-align: center;
+    color: black;
+    font-size: 25px;
+    border-radius: 10px;
+    background-color: rgb(219, 247, 189);
+    width: 700px;
+    padding: 7%;
+    position: relative; left: 20%;
+    font-family:'Courier New', Courier, monospace;
+}
+#rockysvideo{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode',Verdana, sans-serif, Helvetica, sans-serif;
+}
+#rockysphoto{
+    width: 550px;
+    height: 450px;
+    border: 5px solid;
+    border-color: black;
+}
+#rockysphoto:hover {
+    box-shadow: 0 0 2px 5px rgb(255, 255, 255);
+}
+#dog{
+    width: 150px;
+    height: 150px;
+    position: relative;top: 90px;right: 275px;
+    border: 2px solid;
+    border-color:white;
+}
+#myfirstdialog{
+   width: 30%;
+   background-color:#79dc9d;
+   border: 5px black;
+   text-align: center;
+   font-size: 25px;
+   font-family:'Courier New', Courier, monospace;
+   border: 3px dotted black;
+}
+#myseconddialog{
+    width: 30%;
+    background-color:#79dc9d;
+    border: 5px black;
+    text-align: center;
+    font-size: 25px;
+    font-family:'Courier New', Courier, monospace;
+    border: 3px dotted black;
+ }
+
+#mythirddialog{
+    width: 30%;
+    background-color:#79dc9d;
+    border: 5px black;
+    text-align: center;
+    font-size: 25px;
+    font-family:'Courier New', Courier, monospace;
+    border: 3px dotted black;
+ }
+
+#myfourthdialog{
+    width: 30%;
+    background-color:#79dc9d;
+    border: 5px black;
+    text-align: center;
+    font-size: 25px;
+    font-family:'Courier New', Courier, monospace;
+    border: 3px dotted black;
+ }
+
+ #myfifthdialog{
+    width: 30%;
+    background-color:#79dc9d;
+    border: 5px black;
+    text-align: center;
+    font-size: 25px;
+    font-family:'Courier New', Courier, monospace;
+    border: 3px dotted black;
+    position: absolute; top: 125%;
+ }
+
+#mysixthdialog{
+    width: 30%;
+    background-color:#79dc9d;
+    border: 5px black;
+    text-align: center;
+    font-size: 25px;
+    font-family:'Courier New', Courier, monospace;
+    border: 3px dotted black;
+    position: absolute; top: 125%;
+ }
+
+#myseventhdialog{
+    width: 30%;
+    background-color:#79dc9d;
+    border: 5px black;
+    text-align: center;
+    font-size: 25px;
+    font-family:'Courier New', Courier, monospace;
+    border: 3px dotted black;
+    position: absolute; top: 125%;
+ }
+
+#myeighthdialog{
+    width: 30%;
+    background-color:#79dc9d;
+    border: 5px black;
+    text-align: center;
+    font-size: 25px;
+    font-family:'Courier New', Courier, monospace;
+    border: 3px dotted black;
+    position: absolute; top: 125%;
+}
+#adoption1{
+    width: 30%;
+    background-color:#fc4141;
+    border: 5px black;
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border: 5px solid whitesmoke;
+    border-radius: 5%;
+    background-image: url("goldbackground.png")
+}
+    #adoption2{
+        width: 30%;
+        background-color:#fc4141;
+        border: 5px black;
+        text-align: center;
+        font-size: 20px;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        border: 5px solid whitesmoke;
+        border-radius: 5%;
+        background-image: url("goldbackground.png")
+     }
+     #adoption3{
+        width: 30%;
+        background-color:#fc4141;
+        border: 5px black;
+        text-align: center;
+        font-size: 20px;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        border: 5px solid whitesmoke;
+        border-radius: 5%;
+        background-image: url("goldbackground.png")
+     }
+     #adoption4{
+        width: 30%;
+        background-color:#fc4141;
+        border: 5px black;
+        text-align: center;
+        font-size: 20px;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        border: 5px solid whitesmoke;
+        border-radius: 5%;
+        background-image: url("goldbackground.png")
+     }
+     #adoption5{
+        width: 30%;
+        background-color:#fc4141;
+        border: 5px black;
+        text-align: center;
+        font-size: 20px;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        border: 5px solid whitesmoke;
+        border-radius: 5%;
+        background-image: url("goldbackground.png");
+        position: absolute; top: 125%;
+    }
+        #adoption6{
+            width: 30%;
+            background-color:#fc4141;
+            border: 5px black;
+            text-align: center;
+            font-size: 20px;
+            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+            border: 5px solid whitesmoke;
+            border-radius: 5%;
+            background-image: url("goldbackground.png");
+            position: absolute; top: 125%;
+         }
+         #adoption7{
+            width: 30%;
+            background-color:#fc4141;
+            border: 5px black;
+            text-align: center;
+            font-size: 20px;
+            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+            border: 5px solid whitesmoke;
+            border-radius: 5%;
+            background-image: url("goldbackground.png");
+            position: absolute; top: 125%;
+         }
+         #adoption8{
+            width: 30%;
+            background-color:#fc4141;
+            border: 5px black;
+            text-align: center;
+            font-size: 20px;
+            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+            border: 5px solid whitesmoke;
+            border-radius: 5%;
+            background-image: url("goldbackground.png");
+            position: absolute; top: 125%;
+         }
+ #closee1{
+    background-color: rgb(255, 255, 255);
+    color:rgb(0, 0, 0);
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    border-color: rgb(0, 0, 0);
+    padding-left:2.5%;
+    padding-right:2.5%;
+    font-size: 20px;
+
+}
+#closee2{
+    background-color: rgb(255, 255, 255);
+    color:rgb(0, 0, 0);
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    border-color: rgb(0, 0, 0);
+    padding-left:2.5%;
+    padding-right:2.5%;
+    font-size: 20px;
+
+}
+#closee3{
+    background-color: rgb(255, 255, 255);
+    color:rgb(0, 0, 0);
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    border-color: rgb(0, 0, 0);
+    padding-left:2.5%;
+    padding-right:2.5%;
+    font-size: 20px;
+
+}
+#closee4{
+    background-color: rgb(255, 255, 255);
+    color:rgb(0, 0, 0);
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    border-color: rgb(0, 0, 0);
+    padding-left:2.5%;
+    padding-right:2.5%;
+    font-size: 20px;
+
+}
+#closee5{
+    background-color: rgb(255, 255, 255);
+    color:rgb(0, 0, 0);
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    border-color: rgb(0, 0, 0);
+    padding-left:2.5%;
+    padding-right:2.5%;
+    font-size: 20px;
+
+}
+#closee6{
+    background-color: rgb(255, 255, 255);
+    color:rgb(0, 0, 0);
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    border-color: rgb(0, 0, 0);
+    padding-left:2.5%;
+    padding-right:2.5%;
+    font-size: 20px;
+
+}
+#closee7{
+    background-color: rgb(255, 255, 255);
+    color:rgb(0, 0, 0);
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    border-color: rgb(0, 0, 0);
+    padding-left:2.5%;
+    padding-right:2.5%;
+    font-size: 20px;
+
+}
+#closee8{
+    background-color: rgb(255, 255, 255);
+    color:rgb(0, 0, 0);
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    border-color: rgb(0, 0, 0);
+    padding-left:2.5%;
+    padding-right:2.5%;
+    font-size: 20px;
+
+}
